@@ -10,7 +10,7 @@ Any new attributes can be added to "value" JSONObject by changing it in *Value.j
 The working screenshots are attached here for reference:
 
 1. **The program is run and files are created for DataStore:**
-![Output Screenshots](FreshWords Backend Output 1.JPG)
+![Screenshots1](FreshWords Backend Output 1.JPG)
 
 2. **A key value pair is created:**
-![Output Screenshots](FreshWords Backend Output 2.JPG)
+![Screenshot2](https://github.com/Vin5Sas/FileDataStore/blob/master/Output%20Screenshots/FreshWords%20Backend%20Output%202.JPG)
